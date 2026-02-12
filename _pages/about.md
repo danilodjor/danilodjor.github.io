@@ -19,7 +19,7 @@ I am a PhD student in Computer Vision and Artificial Intelligence at ETH Zürich
 
 ### Image Retrieval, Self-Supervised Learning
 
-- **[Evidential Transformers for Improved Image Retrieval](https://arxiv.org/abs/2411.00836)**. **ECCV 2025, UnCV**.
+- **[Evidential Transformers for Improved Image Retrieval](https://arxiv.org/pdf/2409.01082)**. **ECCV 2025, UnCV**.
 Danilo Dordevic, Suryansh Kumar.
 
 ### Transformer Properties and Distillation Learning
