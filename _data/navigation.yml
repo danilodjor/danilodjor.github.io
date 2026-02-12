@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /#publications
 
-  - title: "Educations"
-    url: /#educations    
+  # - title: "Educations"
+  #   url: /#educations    
 
   - title: "Experiences"
     url: /#experiences  
@@ -12,6 +12,5 @@ main:
   - title: "Services"
     url: /#services
         
-  - title: "Others"
-    url: /#others
-    
+  # - title: "Others"
+  #   url: /#others
