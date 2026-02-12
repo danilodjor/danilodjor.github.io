@@ -19,11 +19,13 @@ I am a PhD student in Computer Vision and Artificial Intelligence at ETH Zürich
 
 ### Image Retrieval, Self-Supervised Learning
 
-- **[Evidential Transformers for Improved Image Retrieval](https://arxiv.org/abs/2411.00836)**. **ECCV 2025, UnCV**. Danilo Dordevic, Suryansh Kumar.
+- **[Evidential Transformers for Improved Image Retrieval](https://arxiv.org/abs/2411.00836)**. **ECCV 2025, UnCV**.
+Danilo Dordevic, Suryansh Kumar.
 
 ### Transformer Properties and Distillation Learning
 
-- **[Rethinking attention: Exploring shallow feed-forward neural networks as an alternative to attention layers in transformers](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RM-ZTq0AAAAJ&citation_for_view=RM-ZTq0AAAAJ:u-x6o8ySG0sC)**  ***AAAI 2025 (student track)*** [\[code\]](https://github.com/vulus98/Rethinking-attention) Danilo Dordevic,  Vukasin Bozic,  Joseph Thommes,  Daniele Coppola, Sidak Pal Singh
+- **[Rethinking attention: Exploring shallow feed-forward neural networks as an alternative to attention layers in transformers](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=RM-ZTq0AAAAJ&citation_for_view=RM-ZTq0AAAAJ:u-x6o8ySG0sC)**  ***AAAI 2025 (student track)*** [\[code\]](https://github.com/vulus98/Rethinking-attention)
+Danilo Dordevic,  Vukasin Bozic,  Joseph Thommes,  Daniele Coppola, Sidak Pal Singh
 
 ---
 
