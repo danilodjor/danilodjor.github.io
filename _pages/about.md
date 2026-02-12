@@ -15,7 +15,7 @@ I am a PhD student in Computer Vision and Artificial Intelligence at ETH Zürich
 
 ---
 
-## Selected Projects
+## Publications
 
 ### Image Retrieval, Self-Supervised Learning
 
